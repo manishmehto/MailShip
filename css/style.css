@@ -1,0 +1,157 @@
+                                                 /* css is used for the styling of website and also for responsive website*/
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+.Top {
+    background-color: #114f86;
+}
+
+.mainhead {
+    font-family: 'Montserrat Alternates', sans-serif;
+    ;
+    font-weight: bold;
+    color: white;
+    font: size 4rem;
+    line-height: 4rem;
+}
+
+.main-container {
+    padding: 0 15% 0;
+    padding-bottom: 0.5rem;
+}
+
+.first {
+    padding-bottom: 2rem;
+}
+
+.navbar {
+    padding-top: 2rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    ;
+}
+
+.topline {
+    color: white;
+}
+
+.title {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+
+
+.quote {
+    text-align: left;
+}
+
+.bulk {
+    position: relative;
+    right: 170px;
+    bottom: 50px;
+    width: 140%;
+    transform: rotate(20deg);
+}
+@media(max-width:900px){
+    .bulk{
+        width: 120%;
+        transform: rotate(0deg);
+        position: relative;
+        bottom: 10px;
+        right: 10px;
+        
+    }
+}
+
+.uploadh3,.composeh3 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: lighter;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+#container {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3rem;
+}
+
+.flex-container {
+    padding: 4rem 7% 4rem 7%;
+}
+
+.formbody {
+    text-align: center;
+    background-color: #114f86;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.inputbody {
+    padding: 0 5% 0 3%;
+    text-align: center;
+    background-color: #114f86;
+    padding-top: 9%;
+}
+
+.one {
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+
+.two {
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+
+.three {
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+
+.four {
+    margin-top: 15px;
+}
+.tables{
+    padding-right: 20%;
+    padding-left: 20%;
+}
+.ScrollStyle
+{
+    max-height: 250px;
+    overflow-y: scroll;
+    
+}
+
+.valmailh1, .invalmailh1 {
+   
+    color:  #226aa8;
+}
+.valmailh1:hover,.invalmailh1:hover{
+    color:  #114f86;
+    
+}
+
+#footer{
+    text-align: center;
+    margin-top: 4%;
+    color: white;
+}
+.footer-icon{
+    margin: 2% 1%;
+    color: white;
+    
+}
+.footer-part{
+    background-color: #114f86;
+    padding-bottom: auto;
+}
+
+
+ 
